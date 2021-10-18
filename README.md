@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate and self-taught backend developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Node.js, Linux, Nginx**
+- 🌱 I’m currently learning **Node.js, Linux, Nginx, Jest**
 
 - 📝 I regularly write articles on [https://chris-chen-0908.medium.com/](https://chris-chen-0908.medium.com/)
 
